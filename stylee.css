@@ -1,0 +1,47 @@
+body {
+  font-family: Arial;
+  background: #1e1e2f;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.container {
+  width: 350px;
+  text-align: center;
+}
+.input-section {
+  display: flex;
+  gap: 10px;
+}
+input {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+button {
+  padding: 10px;
+  border: none;
+  background: #ff6b6b;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+ul {
+  list-style: none;
+  margin-top: 20px;
+}
+li {
+  background: #2a2a40;
+  padding: 10px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 5px;
+}
+/* Completed task */
+.completed {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
