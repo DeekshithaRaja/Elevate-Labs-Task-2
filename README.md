@@ -1,4 +1,5 @@
 PREVIEW OF THE OUTPUT:
+
 <img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/ca6ef8b8-b55e-4ff3-969f-ee54fc845231" />
 
 SHORT DESCRIPTION ABOUT THE PROJECT:
